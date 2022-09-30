@@ -1,2 +1,2 @@
-# typescript-Exercism
+# Exercism-TypeScript
 https://exercism.org/tracks/typescript
